@@ -103,7 +103,13 @@ SP500_COMPANIES = {
     'AVGO': 'Broadcom Inc.',
     'ACN': 'Accenture plc',
     'PEP': 'PepsiCo Inc.',
-    'AMD': 'Advanced Micro Devices Inc.'
+    'AMD': 'Advanced Micro Devices Inc.',
+    'GS' : 'The Goldman Sachs Group, Inc.',
+    'VZ' : 'Verizon Communications, Inc.',
+    'QCOM': 'Qualcomm, Inc.',
+    'BLK' : 'BlackRock, Inc.',
+    'C'  : 'Citigroup Inc.',
+    'HOOD' : 'Robinhood Markets, Inc.'
 }
 
 @st.cache_data
