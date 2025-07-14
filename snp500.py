@@ -109,7 +109,10 @@ SP500_COMPANIES = {
     'QCOM': 'Qualcomm, Inc.',
     'BLK' : 'BlackRock, Inc.',
     'C'  : 'Citigroup Inc.',
-    'HOOD' : 'Robinhood Markets, Inc.'
+    'HOOD' : 'Robinhood Markets, Inc.',
+    'QBTS' :'D-Wave Quantum Inc.',
+    'ASML' : 'ASML Holding N.V.',
+    'RGTI' : 'Rigetti Computing, Inc.'
 }
 
 @st.cache_data
