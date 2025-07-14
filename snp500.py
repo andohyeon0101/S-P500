@@ -1,6 +1,6 @@
 import streamlit as st
 st.title('S&P500(by andohyeon)')
-st.write('asshole?!!!')
+st.write('안녕하시겠어요?!!!')
 
 import streamlit as st
 import yfinance as yf
