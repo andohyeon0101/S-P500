@@ -101,7 +101,9 @@ SP500_COMPANIES = {
     'TMO': 'Thermo Fisher Scientific Inc.',
     'COST': 'Costco Wholesale Corporation',
     'AVGO': 'Broadcom Inc.',
-    'ACN': 'Accenture plc'
+    'ACN': 'Accenture plc',
+    'PEP': 'PepsiCo Inc.',
+    'AMD': 'Advanced Micro Devices Inc.'
 }
 
 @st.cache_data
